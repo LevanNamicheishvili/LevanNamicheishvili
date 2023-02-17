@@ -27,7 +27,7 @@
 
 -   Pursuing a bachelor's degree in Computer Science.
 
-📱 Reach me at: [Insert your contact details here]
+
 
 💬 I am a fast learner and have a strong passion for developing clean and efficient code. I am always eager to work on challenging projects and to continuously improve my skills.
 
