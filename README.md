@@ -1,3 +1,5 @@
+![Dx](https://github.com/LevanNamicheishvili/LevanNamicheishvili/assets/117360031/3708ad2a-fec8-4afb-bd8e-6e09f93d2f3e)
+
 <p align="left">
 </p>
 
