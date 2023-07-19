@@ -1,4 +1,4 @@
-<img src="Dx.gif"> 
+<img src="Dx.gif" style:"width:100vh"> 
 <p align="left">
 </p>
 
