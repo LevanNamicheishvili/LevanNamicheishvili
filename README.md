@@ -1,4 +1,3 @@
-<iframe src="https://gifer.com/embed/Dx" width=480 height=347.520 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 <p align="left">
 </p>
 
